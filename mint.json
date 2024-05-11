@@ -80,9 +80,12 @@
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete",
-        "api-reference/endpoint/process_file",
-        "api-reference/endpoint/chatbot",
-        "api-reference/endpoint/file_health"
+        "api-reference/endpoint/get-file_health",
+        "api-reference/endpoint/get-plants",
+        "api-reference/endpoint/post-plants",
+        "api-reference/endpoint/delete-plants",
+        "api-reference/endpoint/get-process_file",
+        "api-reference/endpoint/get-chatbot"
       ]
     }
   ],
