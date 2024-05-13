@@ -77,15 +77,9 @@
     {
       "group": "Endpoint Examples",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete",
         "api-reference/endpoint/get-file_health",
-        "api-reference/endpoint/get-plants",
-        "api-reference/endpoint/post-plants",
-        "api-reference/endpoint/delete-plants",
-        "api-reference/endpoint/get-process_file",
-        "api-reference/endpoint/get-chatbot"
+        "api-reference/endpoint/post-process_file",
+        "api-reference/endpoint/post-chatbot"
       ]
     }
   ],
