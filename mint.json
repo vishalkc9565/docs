@@ -79,7 +79,9 @@
       "pages": [
         "api-reference/endpoint/get-file_health",
         "api-reference/endpoint/post-process_file",
-        "api-reference/endpoint/post-chatbot"
+        "api-reference/endpoint/post-chatbot",
+        "api-reference/endpoint/get-health",
+        "api-reference/endpoint/get-"
       ]
     }
   ],
